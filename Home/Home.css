@@ -1,5 +1,5 @@
 body{
-    background-color: #455681;
+    background-color: white;
 }
 
 .navbar {
@@ -27,7 +27,17 @@ a.nav-link {
 }
 
 div#mel-home {
-    color:white; 
-    font: size 10px;
+    color:black; 
+    font-size: 20px;
+    margin-top: auto;
+    margin-inline-start: 7%;
+    margin-inline-end: 7%;
 }
+
+h1 {
+    background-color: #455681;
+    color: white;
+    border-radius: 7px
+}
+
 
