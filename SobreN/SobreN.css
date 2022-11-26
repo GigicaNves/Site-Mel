@@ -1,0 +1,94 @@
+h1 {
+    color: blueviolet;
+}
+
+body{
+    background-color: #B7C8D6;
+}
+
+.navbar {
+    background-color:#455681; 
+    font-family:Lucida Bright;
+    justify-content: left;
+    text-align: center;
+}
+
+a.nav-link.Home {
+    justify-content: right;
+    text-align: right;
+    color:white; 
+    font-size:25px;
+}
+
+a.nav-link.dropdown-toggle {
+    color:white; 
+    font-size:25px;
+}
+
+a.nav-link {
+    color:white; 
+    font-size:25px
+}
+
+
+section {
+    color: white;
+    background-image: linear-gradient(90deg,  #FFD865 0%, #FFD865 50.52%, #B7C8D6 100%);
+    padding-top: 4px;
+    border-radius: 10px;
+}
+
+section div {
+    background-color: #455681;
+    padding: 32px;
+    padding-top: 24px;
+    border-radius: 8px;
+}
+
+section h2 {
+    font-weight: 900;
+    letter-spacing: -0.47px;
+    font-family:Lucida Bright;
+    font-size: 45px;
+}
+
+p {
+    letter-spacing: -0.18px;
+    color: white;
+    font-family:Lucida Bright;
+}
+
+section ul {
+    gap: 16px;
+    margin-top: 24px;
+    flex-wrap: wrap;
+}
+
+ul.contribuidores {
+    font-size: 22px;
+}
+
+section ul li {
+    transition: transform .3;
+    list-style: none;
+    border-radius: 10px;
+}
+
+.contribuidores img:hover {
+    transform: scale(1.1);
+}
+
+.contribuidores img {
+    width: 200px;
+    border-radius: 8px;
+    margin: 10px;
+    margin-bottom: 20px;
+    align-content: center;
+}
+
+p.descripition {
+    padding-bottom: 40px;
+}
+
+
+

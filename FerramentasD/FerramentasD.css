@@ -1,5 +1,5 @@
 body{
-    background-color: #B7C8D6;
+    background-color: white;
 }
 
 .navbar {
@@ -44,7 +44,3 @@ footer {
     background-color: #455681;
 }
 
-div.mel-oq {
-    background-color: white;
-    border-radius: 7px
-}

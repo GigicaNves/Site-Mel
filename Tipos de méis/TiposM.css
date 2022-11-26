@@ -1,0 +1,85 @@
+body{
+    background-color: white;
+}
+
+.navbar {
+    background-color:#455681; 
+    font-family:Lucida Bright;
+    justify-content: left;
+    text-align: center;
+}
+
+a.nav-link.Home {
+    justify-content: right;
+    text-align: right;
+    color:white; 
+    font-size:25px;
+}
+
+a.nav-link.dropdown-toggle {
+    color:white; 
+    font-size:25px;
+}
+
+a.nav-link {
+    color:white; 
+    font-size:25px
+}
+
+div#mel-home {
+    color:white; 
+    font: size 10px;
+}
+
+h1 {
+    background-color: #f6d76b; 
+    font-family:Lucida Bright;
+    color: white;
+    padding-left: 7%;
+    padding-right: 7%;
+}
+
+button#cardU.accordion-button {
+    background-color: #f0b941; 
+
+}
+
+button#cardL.accordion-button {
+    background-color: #df9b09
+    ; 
+}
+
+button#cardE.accordion-button {
+    background-color: #dc8c02; 
+
+}
+
+button#cardCU.accordion-button {
+    background-color: #DB7C01; 
+
+}
+
+button#cardBC.accordion-button {
+    background-color: #9F5737; 
+
+}
+
+button#cardM.accordion-button {
+    background-color: #7F3A23; 
+
+}
+
+button#cardJ.accordion-button {
+    background-color: #5F2C1A; 
+
+}
+
+button#cardUA.accordion-button {
+    background-color: #36190F; 
+
+}
+
+button#cardT.accordion-button {
+    background-color: #29130C; 
+
+}
